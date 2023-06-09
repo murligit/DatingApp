@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Finding You 🥰</string>
+    <string name="enter_your_number">Enter Your Number ☺</string>
+    <string name="number">Number</string>
+    <string name="send_otp">Send Otp</string>
+    <string name="enter_otp">Enter OTP 😇</string>
+    <string name="otp">OTP</string>
+    <string name="verify_otp">Verify Otp</string>
+    <string name="enterYourNumber">Please Enter Your Number</string>
+    <string name="pleaseEnteryourotp">Please Enter Your Otp</string>
+    <string name="loading">Loading</string>
+    <string name="let_s_know_you">Let\'s Know You</string>
+    <string name="please_provide_all_the_information">Please Provide All The Information</string>
+    <string name="upload_image">Upload Image👸</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="city">City</string>
+    <string name="terms_and_condition">By Clicking On That You Are accepting Our Terms And Condition</string>
+    <string name="save_data">Save Data</string>
+    <string name="next">Next</string>
+    <string name="enterName">Please Enter Your Name</string>
+    <string name="enterEmail">Please Enter Your Email</string>
+    <string name="enterCity">Enter Your City Name</string>
+    <string name="uploadurphoto">Please Upload Your Photo</string>
+    <string name="acceptTermsConditions">\"Please Accept Terms And Conditions \"</string>
+    <string name="registerSuccess">User Register SuccessFull</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dating">Dating</string>
+    <string name="profile">Profile</string>
+    <string name="message">Message</string>
+    <string name="favourite">Favourite</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="share_app">Share App</string>
+    <string name="terms_and_conditions">Terms And Conditions</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="developer">Developer</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="logout">Logout</string>
+    <string name="enter_your_message">Enter Your Message</string>
+    <string name="EnterMessage">Please Enter Your Message</string>
+    <string name="messageSent">Message Sent</string>
+    <string name="wentWrong">something Went Wrong</string>
+    <string name="chatIdNotFound">Chat Not found</string>
+</resources>
